@@ -83,4 +83,3 @@ LOCAL_LLM_URL=http://localhost:1234/v1
 **Answer**: "Based on the collection, mystery novels like '[Book Name]' often explore themes of [Thematic Insight] [1]. This is contrasted by [Book 2] which focuses on [2]."
 
 ---
-*Developed for the Document Intelligence Platform Recruitment Assignment.*
