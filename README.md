@@ -2,6 +2,18 @@
 
 BookIntel is an enterprise-grade document intelligence platform designed to process, analyze, and query literature using state-of-the-art RAG (Retrieval-Augmented Generation). It combines automated data collection, deep AI insights, and a neural vector workspace into a seamless, premium user experience.
 
+## 🖼️ UI Preview
+
+![Dashboard](screenshots/dashboard.png)
+*Modern Bento-style Archive Dashboard*
+
+![AI Workspace](screenshots/ai_chat.png)
+*Neural Workspace: RAG-powered Q&A with real-time citations*
+
+![Book Detail](screenshots/book_detail.png)
+*AI-driven Book Analytics and Sentiment Insights*
+
+
 ## 🚀 Key Features
 
 - **Hybrid Automation Engine**: 
