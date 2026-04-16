@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node
+node_modules/
+build/
+.DS_Store
+
+# Local Databases (Keep it clean, user can run migrations)
+# db.sqlite3
+
+# Vector Store (Small enough for a sample, but usually ignored)
+# vector_store.json
+
+# IDEs
+.vscode/
+.idea/
